@@ -42,3 +42,14 @@ C:\Users\doyle\Desktop\repos\weeklychallenges-cdoyle02\ChallengesWithTestsMark8\
 C:\Users\doyle\Desktop\repos\weeklychallenges-cdoyle02\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.AssemblyInfo.cs
 C:\Users\doyle\Desktop\repos\weeklychallenges-cdoyle02\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.dll
 C:\Users\doyle\Desktop\repos\weeklychallenges-cdoyle02\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.pdb
+C:\Users\doyle\Desktop\charlie's repos\weeklychallenges-cdoyle02\ChallengesWithTestsMark8\bin\Debug\netcoreapp2.1\ChallengesWithTestsMark8.deps.json
+C:\Users\doyle\Desktop\charlie's repos\weeklychallenges-cdoyle02\ChallengesWithTestsMark8\bin\Debug\netcoreapp2.1\ChallengesWithTestsMark8.runtimeconfig.json
+C:\Users\doyle\Desktop\charlie's repos\weeklychallenges-cdoyle02\ChallengesWithTestsMark8\bin\Debug\netcoreapp2.1\ChallengesWithTestsMark8.runtimeconfig.dev.json
+C:\Users\doyle\Desktop\charlie's repos\weeklychallenges-cdoyle02\ChallengesWithTestsMark8\bin\Debug\netcoreapp2.1\ChallengesWithTestsMark8.dll
+C:\Users\doyle\Desktop\charlie's repos\weeklychallenges-cdoyle02\ChallengesWithTestsMark8\bin\Debug\netcoreapp2.1\ChallengesWithTestsMark8.pdb
+C:\Users\doyle\Desktop\charlie's repos\weeklychallenges-cdoyle02\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.csprojAssemblyReference.cache
+C:\Users\doyle\Desktop\charlie's repos\weeklychallenges-cdoyle02\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.csproj.CoreCompileInputs.cache
+C:\Users\doyle\Desktop\charlie's repos\weeklychallenges-cdoyle02\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.AssemblyInfoInputs.cache
+C:\Users\doyle\Desktop\charlie's repos\weeklychallenges-cdoyle02\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.AssemblyInfo.cs
+C:\Users\doyle\Desktop\charlie's repos\weeklychallenges-cdoyle02\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.dll
+C:\Users\doyle\Desktop\charlie's repos\weeklychallenges-cdoyle02\ChallengesWithTestsMark8\obj\Debug\netcoreapp2.1\ChallengesWithTestsMark8.pdb
