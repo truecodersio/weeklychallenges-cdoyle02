@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\doyle\\Desktop\\charlie's repos\\weeklychallenges-cdoyle02\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
+      "projectUniqueName": "C:\\Users\\doyle\\Desktop\\charlies repos\\weeklychallenges-cdoyle02\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
       "projectName": "ChallengesWithTestsMark8",
-      "projectPath": "C:\\Users\\doyle\\Desktop\\charlie's repos\\weeklychallenges-cdoyle02\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
+      "projectPath": "C:\\Users\\doyle\\Desktop\\charlies repos\\weeklychallenges-cdoyle02\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
       "packagesPath": "C:\\Users\\doyle\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\doyle\\Desktop\\charlie's repos\\weeklychallenges-cdoyle02\\ChallengesWithTestsMark8\\obj\\",
+      "outputPath": "C:\\Users\\doyle\\Desktop\\charlies repos\\weeklychallenges-cdoyle02\\ChallengesWithTestsMark8\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
