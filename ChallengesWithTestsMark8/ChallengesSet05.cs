@@ -12,7 +12,7 @@ namespace ChallengesWithTestsMark8
 
         public void ChangeNamesOfBusinessesWithNoRevenueTo_CLOSED(Business[] businesses)
         {
-            for (int i = 0; i < businesses.Length; i++)
+            for (int i = 0; i < businesses.Length; i++) 
             {
                 if (businesses[i].TotalRevenue == 0)
                 {
@@ -23,7 +23,7 @@ namespace ChallengesWithTestsMark8
 
         public bool IsAscendingOrder(int[] numbers)
         {
-            if (numbers == null)
+            if ((numbers == null) || (numbers.Length == 0))
                 return false;
 
             for (int i = 1; i < numbers.Length; i++)
@@ -40,6 +40,10 @@ namespace ChallengesWithTestsMark8
         public int SumElementsThatFollowAnEven(int[] numbers)
         {
             int sum = 0;
+            if(numbers == null)
+            {
+                return 0; 
+            }
 
             for (int i = 1; i < numbers.Length; i++)
             {
@@ -82,13 +86,24 @@ namespace ChallengesWithTestsMark8
         public double[] GetEveryFourthElement(List<double> elements)
         {
             List<double> everyFourth = new List<double>();
-
+            double[] answer = new double[] { }; 
+            if (elements == null)
+            {
+                return answer;
+            }
+            
+           
             for (int i = 3; i < elements.Count; i += 4)
             {
                 everyFourth.Add(elements[i]);
             }
+            if(elements == null)
+            {
+                return null; 
+            }
 
             return everyFourth.ToArray();
+           
         }
 
         public bool TwoDifferentElementsInArrayCanSumToTargetNumber(int[] nums, int targetNumber)
